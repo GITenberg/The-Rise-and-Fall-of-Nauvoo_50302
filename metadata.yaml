@@ -1,4 +1,8 @@
 _repo: The-Rise-and-Fall-of-Nauvoo_50302
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50302-h/images/cover.jpg
 creator:
   author:
     agent_name: Roberts, B. H. (Brigham Henry)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37629
     wikipedia: http://en.wikipedia.org/wiki/B._H._Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50302#The-Rise-and-Fall-of-Nauvoo
 gutenberg_issued: '2015-10-25'
 gutenberg_type: Text
 identifiers:
